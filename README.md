@@ -3,9 +3,9 @@
 - :blush: These are the things I do every day
 
 <div>
-  <img src="https://media.giphy.com/media/3osxY7eI6enqNBo2mQ/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/Jap1tdjahS0rm/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3osxY7eI6enqNBo2mQ/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/Jap1tdjahS0rm/giphy.gif" width="250"/>
 </div>
 
 
