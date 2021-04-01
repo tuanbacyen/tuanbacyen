@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuan Pham
-- 👀 I’m a bad developer. Because I can only write hello world program. :cry:
+- 👀 I’m a bad developer. Because I can only write `hello world` program. :cry:
 - :blush: These are the things I do every day
 
 <div>
