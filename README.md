@@ -12,3 +12,8 @@
 - **:thinking: I always want to ...**
 
 ![](https://media.giphy.com/media/3XEgV9kfwLy1i/giphy.gif)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuanbacyen&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanbacyen&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanbacyen)](https://github.com/anuraghazra/github-readme-stats)
