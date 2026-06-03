@@ -14,6 +14,7 @@
 ![](https://media.giphy.com/media/3XEgV9kfwLy1i/giphy.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tuanbacyen&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanbacyen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanbacyen)](https://github.com/anuraghazra/github-readme-stats)
