@@ -20,7 +20,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanbacyen)](https://github.com/anuraghazra/github-readme-stats)
 
 
-working time on Remitano/RENEC: https://github.com/tuanpa96
+I have previously worked with several other GitHub accounts:
+
+https://github.com/tuanpa96
+
 https://github.com/pham-anh-tuan-10kn
+
 https://github.com/pat-pixta
+
 https://github.com/tuanpa-1720
